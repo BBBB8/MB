@@ -1,0 +1,38 @@
+{
+  "name": "MalaysiaBaru.kecoh.info",
+  "short_name": "MalaysiaBaru",
+  "start_url": "https://www.MalaysiaBaru.kecoh.info/?m=1",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#ff0000",
+  "description": "MalaysiaBaru.kecoh.info is sharing video platform all over the world!",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-hx1NR8s-09M/XbMSD5xKsJI/AAAAAAAAJ4E/t6DNZZ-uJA8VBRFaQvFI7lrgr_OJ4C0sQCLcBGAsYHQ/s48/favicon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-hx1NR8s-09M/XbMSD5xKsJI/AAAAAAAAJ4E/t6DNZZ-uJA8VBRFaQvFI7lrgr_OJ4C0sQCLcBGAsYHQ/s72/favicon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-hx1NR8s-09M/XbMSD5xKsJI/AAAAAAAAJ4E/t6DNZZ-uJA8VBRFaQvFI7lrgr_OJ4C0sQCLcBGAsYHQ/s96/favicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-hx1NR8s-09M/XbMSD5xKsJI/AAAAAAAAJ4E/t6DNZZ-uJA8VBRFaQvFI7lrgr_OJ4C0sQCLcBGAsYHQ/s144/favicon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-hx1NR8s-09M/XbMSD5xKsJI/AAAAAAAAJ4E/t6DNZZ-uJA8VBRFaQvFI7lrgr_OJ4C0sQCLcBGAsYHQ/s168/favicon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-hx1NR8s-09M/XbMSD5xKsJI/AAAAAAAAJ4E/t6DNZZ-uJA8VBRFaQvFI7lrgr_OJ4C0sQCLcBGAsYHQ/s192/favicon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-hx1NR8s-09M/XbMSD5xKsJI/AAAAAAAAJ4E/t6DNZZ-uJA8VBRFaQvFI7lrgr_OJ4C0sQCLcBGAsYHQ/s512/favicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
